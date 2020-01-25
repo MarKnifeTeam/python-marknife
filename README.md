@@ -1,2 +1,3 @@
 # python-marknife
-Python Module for marknife API
+Python Client for Marknife API
+https://api.marknife.com/docs/
